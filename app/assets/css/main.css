@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+@theme {
+  /* Palette de couleurs personnalisée */
+  --color-primary: #242038;
+  --color-secondary: #9067C6;
+  --color-accent: #8D86C9;
+  --color-muted: #CAC4CE;
+  --color-light: #F7ECE1;
+}
